@@ -1,2 +1,3 @@
-# kentech_EF_CCP
-Kentech EF CCP
+# kentech EF CCP
+
+Interdisciplinary Approaches to Electrochemical Interfaces Control
