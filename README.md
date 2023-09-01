@@ -3,6 +3,6 @@
 2023 Fall - 2024 Sping:
 Interdisciplinary Approaches to Electrochemical Interfaces Control
 
-See [the tutorial](https://sites.google.com/kentech.ac.kr/kimgroup/tutorial)!
+- See [the tutorial](https://sites.google.com/kentech.ac.kr/kimgroup/tutorial)!
 
-Here is [the tutorial template](https://www.overleaf.com/5565536941zzgqcngbxytz) for our CCP.
+- Here is [the tutorial template](https://www.overleaf.com/5565536941zzgqcngbxytz) for our CCP.
