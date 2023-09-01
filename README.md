@@ -1,7 +1,6 @@
-# kentech EF RC-CCP
+# Kentech EF RC-CCP: Scientific Investigation Squad
 
-Scientific Investigation Squad!
-
+2023 Fall - 2024 Sping:
 Interdisciplinary Approaches to Electrochemical Interfaces Control
 
 See [the tutorial](https://sites.google.com/kentech.ac.kr/kimgroup/tutorial)!
