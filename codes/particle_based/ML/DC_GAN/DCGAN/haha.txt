@@ -1,0 +1,6 @@
+python3 main.py --mode train \
+                 --scope dcgan \
+                 --name_data p1 \
+                 --dir_data ~/Google\ Drive/내\ 드라이브/DLA_Datas/img_data/   \
+                 --dir_log ./log \
+                 --dir_checkpoint ./checkpoint

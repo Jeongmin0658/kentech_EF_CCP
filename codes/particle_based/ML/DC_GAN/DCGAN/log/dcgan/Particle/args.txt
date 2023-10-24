@@ -1,0 +1,39 @@
+----------------------------------------
+            PARAMETER TABLES            
+----------------------------------------
+batch_size :                       128
+beta1 :                            0.5
+data_type :                    float32
+dir_checkpoint :          ./checkpoint
+dir_data : /Users/gimseong-won/Google Drive/내 드라이브/DLA_Datas/img_data/p1
+dir_log :                        ./log
+dir_result :                 ./results
+gpu_ids :                          [0]
+lr_D :                          0.0002
+lr_G :                          0.0002
+lr_decay_iters :                    50
+lr_policy :                     linear
+mode :                           train
+n_epochs :                         100
+n_epochs_decay :                   100
+name_data :                   Particle
+nch_in :                           100
+nch_ker :                           64
+nch_load :                           3
+nch_out :                            3
+norm :                           inorm
+num_epoch :                         10
+num_freq_disp :                    100
+num_freq_save :                      2
+nx_in :                              1
+nx_load :                           64
+nx_out :                            64
+ny_in :                              1
+ny_load :                           64
+ny_out :                            64
+optim :                           adam
+scope :                          dcgan
+train_continue :                   off
+wgt_disc :                         1.0
+wgt_gan :                          1.0
+----------------------------------------
